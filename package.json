@@ -1,0 +1,10 @@
+{
+  "name": "angle-helper-c-code",
+  "version": "0.0.0",
+  "description": "Angle helper samples in C",
+  "main": "index.js",
+  "repository": "git@github.com:jlarmstrongiv/angle-helper-c-code.git",
+  "author": "John Armstrong <jlarmst@g.clemson.edu>",
+  "license": "MIT",
+  "private": true
+}
